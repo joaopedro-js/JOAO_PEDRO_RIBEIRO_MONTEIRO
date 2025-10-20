@@ -11,7 +11,7 @@
 ---
 
 ### 📂 Meus Projetos Recentes
-- 🎨 [Landing Page de Agência Criativa](link-do-repo)
+- 🎨 [exercicío-drink-water](https://github.com/joaopedro-js/exercicio_drink_water.git)
 - 📰 [Blog Responsivo com HTML/CSS](link-do-repo)
 - 🕹️ [Jogo da Velha com JavaScript](link-do-repo)
 
