@@ -12,8 +12,8 @@
 
 ### 📂 Meus Projetos Recentes
 - 🎨 [exercicío-drink-water](https://github.com/joaopedro-js/exercicio_drink_water.git)
-- 📰 [Blog Responsivo com HTML/CSS](link-do-repo)
-- 🕹️ [Jogo da Velha com JavaScript](link-do-repo)
+-
+-
 
 ---
 
